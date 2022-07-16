@@ -8,3 +8,5 @@ __command() ->
     run('player BedBot sneak');
     run('player BedBot use interval 80');
 );
+
+;null;
